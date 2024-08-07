@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, and working on my web development skills.**
  
-- 🧑 Reach out to me at **[Mail](kumaranilstps017@gmail.com) | [Portfolio](https://portfolio-zeta-dun-64.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/anil-kumar-535799221/).**
+- 🧑 Reach out to me at **[Mail](kumaranilstps017@gmail.com) | [Portfolio](https://anilverma.in/) | [LinkedIn](https://www.linkedin.com/in/anil-kumar-535799221/).**
 
 ## 🚀 Languages and Tools:
 
